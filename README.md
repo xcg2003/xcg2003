@@ -1,4 +1,4 @@
-- I’m Xavier just a student trying to survive in this crazy world we call computer science.
+- I’m Xavier, just a student trying to survive in this crazy world we call computer science.
 
 
 <!---
